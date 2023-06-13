@@ -16,7 +16,7 @@ AI will undoubtedly change the world in unimaginable ways with the rate the tech
 
 With that in mind, the underlying movement behind this technology needs to be explored and scrutinized thoroughly.
 
-## (TODO) Purpose Statement
+## Purpose
 
 ## Content
 ### Python
