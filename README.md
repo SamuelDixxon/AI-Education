@@ -1,4 +1,4 @@
-# Networking and resources page for people aspiring to pursue careers in big tech: Semi, Software, and Department of Defense
+# Resources for working with AI 
 
 ## Prelude
 AI will undoubtedly change the world in unimaginable ways with the rate the technology is being developed and explored. There are two main tenents to capitalism that have brought the technology to where it is currently and will continue to allow for its increased focus and growth: 
