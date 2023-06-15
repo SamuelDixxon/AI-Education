@@ -20,9 +20,17 @@ With that in mind, the underlying movement behind this technology needs to be ex
 
 ## Content
 ### Python
-- [Coding and AI Episode 2: Gaussian Distributions and The Law of Large Numbers with Python](https://youtu.be/8rr4Ol7GX74)
-  - [notebook]()
-- []
-  - [notebook]()
+
+<details>
+<summary>Title</summary>
+
+[Coding and AI Episode 2: Gaussian Distributions and The Law of Large Numbers with Python](https://youtu.be/8rr4Ol7GX74)
+
+Item 2
+
+Item 3
+
+</details>
+
 ### Finance
 ### Media
