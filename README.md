@@ -43,19 +43,16 @@ The underlying movement behind this technology needs to be explored and scrutini
 <details>
 <summary>Episodes</summary>
 
-[Creativity and AI Episode 1: Writing a poem with Bing, ChatGPT, and Android Mobile](https://youtu.be/WD41A0wVEr8)
+1. [Creativity and AI Episode 1: Writing a poem with Bing, ChatGPT, and Android Mobile](https://youtu.be/WD41A0wVEr8)
 
-[Resources/Writeup](./media/3/)
-
-
-[Creativity and AI Episode 2: Music generation](https://youtu.be/WD41A0wVEr8)
-
-[Resources/Writeup](./media/3/)
+    - [Resources/Writeup](./media/3/)
 
 
-[Creativity and AI Episode 3: Music generation](https://youtu.be/WD41A0wVEr8)
+2. [Creativity and AI Episode 2: Music generation](https://youtu.be/WD41A0wVEr8)
 
-[Resources/Writeup](./media/3/)
+    - [Resources/Writeup](./media/3/)
+
+
 
 </details>
 
