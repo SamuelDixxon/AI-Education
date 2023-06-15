@@ -1,4 +1,4 @@
-# Resources for working with AI 
+# A repository showing how learning can be approached across various subjects using publicly available LLM (large-language model) AI tools.
 
 ## Directory
 - [Prelude](#Prelude)
