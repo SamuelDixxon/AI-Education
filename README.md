@@ -27,14 +27,14 @@ The underlying movement behind this technology needs to be explored and scrutini
 <details>
 <summary>Episodes</summary>
 
-1. [Finance and AI Episode 1: Roth IRAs and 401ks](https://youtu.be/D1eFvP7taIk](https://youtu.be/AmoeL34fGPE)
+1. [Finance and AI Episode 1: Roth IRAs and 401ks](https://youtu.be/AmoeL34fGPE)
 
       - [Resources/Writeup](./finance/1/)
 
 
-2. [Finance and AI Episode 2: Why financial health](https://youtu.be/WD41A0wVEr8](https://youtu.be/orC-WXsm5_4)
+2. [Finance and AI Episode 2: Why financial health](
 
-      - [Resources/Writeup](./finance/1/)
+      - [Resources/Writeup](https://youtu.be/orC-WXsm5_4)
    
 </details>
 
