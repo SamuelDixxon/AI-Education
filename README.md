@@ -95,7 +95,8 @@ The underlying movement behind this technology needs to be explored and scrutini
 <summary>Episodes</summary>
 
 1. [Tech and AI Episode 1: ]()
-  - [Resources/Writeup]()
+
+    - [Resources/Writeup]()
 
 
 </details>
