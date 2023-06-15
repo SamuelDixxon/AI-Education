@@ -80,15 +80,9 @@ The underlying movement behind this technology needs to be explored and scrutini
 
 (IN Progress ideas for future below)
 
+[Coding and AI Episode 5: Binary Search]()
 
-[Coding and AI Episode 5: Sorting Algorithms]()
-
-[Resources/Writeup]()
-
-
-[Coding and AI Episode 6: Binary Search]()
-
-[Resources/Writeup]()
+[Resources/Writeup](./python/5)
 
 </details>
 
