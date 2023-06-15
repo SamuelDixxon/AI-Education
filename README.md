@@ -59,28 +59,26 @@ The underlying movement behind this technology needs to be explored and scrutini
 <details>
 <summary>Episodes</summary>
 
-[Coding and AI: Episode 1 ChatGPT4 code generation for python](https://youtu.be/8rr4Ol7GX74)
+1. [Coding and AI: Episode 1 ChatGPT4 code generation for python](https://youtu.be/8rr4Ol7GX74)
 
 - [Resources/Writeup](./python/1/)
 
 
-[Coding and AI Episode 2: Gaussian Distributions and The Law of Large Numbers with Python](https://youtu.be/8rr4Ol7GX74)
+2. [Coding and AI Episode 2: Gaussian Distributions and The Law of Large Numbers with Python](https://youtu.be/8rr4Ol7GX74)
 
 - [Resources/Writeup](./python/2)
 
-
-[Coding and AI Episode 3: Gaussian Distributions and The Law of Large Numbers with Python](https://youtu.be/8rr4Ol7GX74)
+3. [Coding and AI Episode 3: Gaussian Distributions and The Law of Large Numbers with Python](https://youtu.be/8rr4Ol7GX74)
 
 - [Resources/Writeup](./python/3)
 
-
-[Coding and AI Episode 4: Statistics vs. Human Intuition | Monte Hall Problem | ChatGPT4](https://youtu.be/4D9gWfcIXHU)
+4. [Coding and AI Episode 4: Statistics vs. Human Intuition | Monte Hall Problem | ChatGPT4](https://youtu.be/4D9gWfcIXHU)
 
 - [Resources/Writeup](./python/4)
 
 (IN Progress ideas for future below)
 
-[Coding and AI Episode 5: Binary Search]()
+5. [Coding and AI Episode 5: Binary Search]()
 
 - [Resources/Writeup](./python/5)
 
@@ -91,10 +89,9 @@ The underlying movement behind this technology needs to be explored and scrutini
 <details>
 <summary>Episodes</summary>
 
-[Tech and AI Episode 1: ]()
-
-[Resources/Writeup]()
-
+1. [Tech and AI Episode 1: ]()
+2. 
+- [Resources/Writeup]()
 
 </details>
 
