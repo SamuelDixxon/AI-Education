@@ -27,10 +27,14 @@ The underlying movement behind this technology needs to be explored and scrutini
 <details>
 <summary>Episodes</summary>
 
-[Coding and AI Episode 1: Media and AI Episode 1: Writing a poem with Bing, ChatGPT, and Android Mobile](https://youtu.be/D1eFvP7taIk)
+1. [Finance and AI Episode 1: Roth IRAs and 401ks]([https://youtu.be/D1eFvP7taIk](https://youtu.be/AmoeL34fGPE))
+
+      - [Resources/Writeup](./finance/1/)
 
 
-[Media and AI Episode 2: Music generation with AI](https://youtu.be/WD41A0wVEr8)
+2. [Finance and AI Episode 2: Music generation with AI]([https://youtu.be/WD41A0wVEr8](https://youtu.be/orC-WXsm5_4))
+
+       - [Resources/Writeup](./finance/2/)
 
 </details>
 
