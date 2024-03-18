@@ -35,6 +35,7 @@ The underlying movement behind this technology needs to be explored and scrutini
 2. [Finance and AI Episode 2: Why financial health](https://youtu.be/orC-WXsm5_4))
 
       - [Resources/Writeup](./finance/)
+  
    
 </details>
 
