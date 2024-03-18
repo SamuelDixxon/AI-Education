@@ -32,7 +32,11 @@ The underlying movement behind this technology needs to be explored and scrutini
       - [Resources/Writeup](./finance/1/)
 
 
-2. [Finance and AI Episode 2: Why financial health](https://youtu.be/orC-WXsm5_4))
+2. [Finance and AI Episode 2: Why financial health](https://youtu.be/orC-WXsm5_4)
+
+      - [Resources/Writeup](./finance/)
+  
+3. [Finance and AI Episode 3: ](https://youtu.be/orC-WXsm5_4)
 
       - [Resources/Writeup](./finance/)
   
@@ -64,7 +68,6 @@ The underlying movement behind this technology needs to be explored and scrutini
 1. [Coding and AI: Episode 1 ChatGPT4 code generation for python](https://youtu.be/8rr4Ol7GX74)
 
     - [Resources/Writeup](./python/1/)
-
 
 2. [Coding and AI Episode 2: Gaussian Distributions and The Law of Large Numbers with Python](https://youtu.be/8rr4Ol7GX74)
 
