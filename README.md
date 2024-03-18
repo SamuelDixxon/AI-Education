@@ -93,7 +93,7 @@ The underlying movement behind this technology needs to be explored and scrutini
 <details>
 <summary>Episodes</summary>
 
-1. [Tech and AI Episode 1: Topics in NFC]()
+1. [Tech and AI Episode 1: Topics in NFC](https://www.youtube.com/watch?v=tZWMwzb4dME)
 
 
 
