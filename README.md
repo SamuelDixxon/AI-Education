@@ -82,8 +82,6 @@ The underlying movement behind this technology needs to be explored and scrutini
     - [Resources/Writeup](./python/4)
 
 5. [Coding and AI Episode 5: Annex.us Texas A&M Grade Distribution Analysis]()
-
-    - [Resources/Writeup](./python/5)
   
 6. [Coding and AI Episode 6: Binary Search]()
 
@@ -91,14 +89,12 @@ The underlying movement behind this technology needs to be explored and scrutini
 
 </details>
 
-
 ### Tech
 <details>
 <summary>Episodes</summary>
 
-1. [Tech and AI Episode 1: ]()
+1. [Tech and AI Episode 1: Topics in NFC]()
 
-    - [Resources/Writeup]()
 
 
 </details>
