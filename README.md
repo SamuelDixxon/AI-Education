@@ -81,13 +81,11 @@ The underlying movement behind this technology needs to be explored and scrutini
 
     - [Resources/Writeup](./python/4)
 
-(IN Progress ideas for future below)
-
-5. [Coding and AI Episode 5: Binary Search]()
+5. [Coding and AI Episode 5: Annex.us Texas A&M Grade Distribution Analysis]()
 
     - [Resources/Writeup](./python/5)
-
-6. [Coding and AI Episode 5: Annex.us Texas A&M Grade Distribution Analysis]()
+  
+6. [Coding and AI Episode 6: Binary Search]()
 
     - [Resources/Writeup](./python/6)
 
